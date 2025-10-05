@@ -1,0 +1,17 @@
+G:\Projects\E_Shop\E_Shop.ModelCustumes\bin\Debug\net8.0\E_Shop.Models.Custumes.deps.json
+G:\Projects\E_Shop\E_Shop.ModelCustumes\bin\Debug\net8.0\E_Shop.Models.Custumes.dll
+G:\Projects\E_Shop\E_Shop.ModelCustumes\bin\Debug\net8.0\E_Shop.Models.Custumes.pdb
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\E_Shop.Models.Custumes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\E_Shop.Models.Custumes.AssemblyInfoInputs.cache
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\E_Shop.Models.Custumes.AssemblyInfo.cs
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\E_Shop.Models.Custumes.csproj.CoreCompileInputs.cache
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\E_Shop.Models.Custumes.dll
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\refint\E_Shop.Models.Custumes.dll
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\E_Shop.Models.Custumes.pdb
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\ref\E_Shop.Models.Custumes.dll
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\E_Shop.Models.Custumes.csproj.AssemblyReference.cache
+G:\Projects\E_Shop\E_Shop.ModelCustumes\bin\Debug\net8.0\E_Shop.Core.dll
+G:\Projects\E_Shop\E_Shop.ModelCustumes\bin\Debug\net8.0\E_Shop.Models.dll
+G:\Projects\E_Shop\E_Shop.ModelCustumes\bin\Debug\net8.0\E_Shop.Core.pdb
+G:\Projects\E_Shop\E_Shop.ModelCustumes\bin\Debug\net8.0\E_Shop.Models.pdb
+G:\Projects\E_Shop\E_Shop.ModelCustumes\obj\Debug\net8.0\E_Shop.M.D3300128.Up2Date

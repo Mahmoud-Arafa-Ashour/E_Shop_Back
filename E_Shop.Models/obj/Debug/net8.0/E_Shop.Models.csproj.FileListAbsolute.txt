@@ -1,0 +1,12 @@
+G:\Projects\E_Shop\E_Shop.Models\bin\Debug\net8.0\E_Shop.Models.deps.json
+G:\Projects\E_Shop\E_Shop.Models\bin\Debug\net8.0\E_Shop.Models.dll
+G:\Projects\E_Shop\E_Shop.Models\bin\Debug\net8.0\E_Shop.Models.pdb
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\E_Shop.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\E_Shop.Models.AssemblyInfoInputs.cache
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\E_Shop.Models.AssemblyInfo.cs
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\E_Shop.Models.csproj.CoreCompileInputs.cache
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\E_Shop.Models.dll
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\refint\E_Shop.Models.dll
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\E_Shop.Models.pdb
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\ref\E_Shop.Models.dll
+G:\Projects\E_Shop\E_Shop.Models\obj\Debug\net8.0\E_Shop.Models.csproj.AssemblyReference.cache

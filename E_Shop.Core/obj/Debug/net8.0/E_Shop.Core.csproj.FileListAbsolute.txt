@@ -1,0 +1,15 @@
+G:\Projects\E_Shop\E_Shop.Core\bin\Debug\net8.0\E_Shop.Core.deps.json
+G:\Projects\E_Shop\E_Shop.Core\bin\Debug\net8.0\E_Shop.Core.dll
+G:\Projects\E_Shop\E_Shop.Core\bin\Debug\net8.0\E_Shop.Core.pdb
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\E_Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\E_Shop.Core.AssemblyInfoInputs.cache
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\E_Shop.Core.AssemblyInfo.cs
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\E_Shop.Core.csproj.CoreCompileInputs.cache
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\E_Shop.Core.dll
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\refint\E_Shop.Core.dll
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\E_Shop.Core.pdb
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\ref\E_Shop.Core.dll
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\E_Shop.Core.csproj.AssemblyReference.cache
+G:\Projects\E_Shop\E_Shop.Core\bin\Debug\net8.0\E_Shop.Models.dll
+G:\Projects\E_Shop\E_Shop.Core\bin\Debug\net8.0\E_Shop.Models.pdb
+G:\Projects\E_Shop\E_Shop.Core\obj\Debug\net8.0\E_Shop.C.A81B4999.Up2Date
